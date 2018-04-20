@@ -7,6 +7,11 @@ Feel free to take inspiration from the provided designs, but don't feel pressure
 conform to them 100%. We want to see your creativity!
 
 ## How to get started
+Download the following dependencies:
+- yarn
+- React Native Debugger
+- XCode
+
 ```bash
 $ git clone https://github.com/jaydenwindle/jetpack-tech-interview-app.git
 $ cd jetpack-tech-interview-app
@@ -14,13 +19,18 @@ $ yarn
 $ yarn start # to run on your own device
 # or
 $ yarn ios # to run in the simulator
+# to debug the app with RNDB
+$ open "rndebugger://set-debugger-loc?host=localhost&port=19001" 
 ```
 
 ## Things you might need to know
 
 Here are some useful links to help you brush up on what you'll need to know!
 
-<links should go here>
+[React Native](https://facebook.github.io/react-native/docs/tutorial.html)
+[Redux Act](https://github.com/pauldijou/redux-act)
+[React Redux](https://redux.js.org/basics/usage-with-react)
+[Redux Observable](https://redux-observable.js.org/)
 
 -----
 
