@@ -8,6 +8,7 @@ conform to them 100%. We want to see your creativity!
 
 ## How to get started
 Download the following dependencies:
+- node
 - yarn
 - React Native Debugger
 - XCode
@@ -15,12 +16,9 @@ Download the following dependencies:
 ```bash
 $ git clone https://github.com/jaydenwindle/jetpack-tech-interview-app.git
 $ cd jetpack-tech-interview-app
-$ yarn 
-$ yarn start # to run on your own device
-# or
+$ yarn # installs dependencies
 $ yarn ios # to run in the simulator
-# to debug the app with RNDB
-$ open "rndebugger://set-debugger-loc?host=localhost&port=19001" 
+$ open "rndebugger://set-debugger-loc?host=localhost&port=19001" # to debug the app with RNDB
 ```
 
 ## Things you might need to know
@@ -28,8 +26,11 @@ $ open "rndebugger://set-debugger-loc?host=localhost&port=19001"
 Here are some useful links to help you brush up on what you'll need to know!
 
 [React Native](https://facebook.github.io/react-native/docs/tutorial.html)
+
 [Redux Act](https://github.com/pauldijou/redux-act)
+
 [React Redux](https://redux.js.org/basics/usage-with-react)
+
 [Redux Observable](https://redux-observable.js.org/)
 
 -----
