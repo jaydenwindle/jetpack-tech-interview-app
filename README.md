@@ -7,9 +7,9 @@ Feel free to take inspiration from the provided designs, but don't feel pressure
 conform to them 100%. We want to see your creativity!
 
 ## How to get started
-```
-$ git clone <git_url>
-$ cd <git_repo>
+```bash
+$ git clone https://github.com/jaydenwindle/jetpack-tech-interview-app.git
+$ cd jetpack-tech-interview-app
 $ yarn 
 $ yarn start # to run on your own device
 # or
